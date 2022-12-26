@@ -1,0 +1,11 @@
+asn|vendor_id|sku_id|po_number|ordered_quantity|order_date|received_quantity|operation
+asn1||s1|po_01|5|2022-02-20|4|INSERT
+asn2||s2|po_02|1|2022-02-21|1|INSERT
+asn3||s3|po_03|6|2022-02-22|4|INSERT
+asn4||s4|po_04|10|2022-02-23|5|INSERT
+asn5||s5|po_05|10.5|2022-02-24|5|INSERT
+asn6||s6|po_06|12.5|2022-02-25|5.6|INSERT
+asn7||s7|po_07|14.5|2022-02-26|6.2|INSERT
+asn8||s8|po_08|16.5|2022-02-27|6.8|INSERT
+asn9||s9|po_09|18.5|2022-02-28|7.4|INSERT
+asn10||s10|po_10|20.5|2022-03-01|8|INSERT
